@@ -1,0 +1,5 @@
+  650  ls
+  651  grep -o 13 rand-nums.txt
+  652  grep -o 13 rand-nums.txt > mission1file.txt
+  653  wc -l mission1file.txt
+  654  history | tail -5 >> task-1.txt
